@@ -1,1 +1,12 @@
-# Note Taker Starter Code
+# NoteTaker App
+
+
+## Purpose
+
+## Demo
+
+## Built With
+* 
+
+## Website
+
